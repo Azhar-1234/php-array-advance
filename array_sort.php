@@ -42,3 +42,13 @@
 
 
     // dd(    $sortedArray);
+
+	// $sortable_months = array_keys($sortable_months);
+	// $newMonth = [];
+	// foreach($all_months as $month){
+	//    if(in_array($month,$sortable_months)){
+	//       array_push($newMonth, $month);   
+	//    }
+	// }
+
+	// print_r($newMonth);
